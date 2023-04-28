@@ -1,0 +1,55 @@
+* {
+	padding: 0px;
+	margin :0px;
+}
+
+canvas {
+	display : block;
+	margin:0 auto;
+}
+
+@font-face {
+    font-family: 'MarioFont';
+    src: url('super-mario-ds-font/SuperMarioDsRegular-Ea4R8.ttf');
+  }
+
+ #lab {
+    margin-left: 43%;
+    color: aliceblue;
+    font-family: 'MarioFont';
+    size-adjust: 5px;
+ }
+
+ #speed{
+ border-radius: 6px;
+ width: 50px;
+ border: 0;
+ font-family: 'MarioFont';
+ text-align: center;
+ color:  rgb(95, 66, 26);
+ background-color: white;
+
+
+ }
+ 
+
+ body{
+    background-color: rgb(0, 0, 0);
+ }
+
+ #mainn{
+   margin-top: 270px;
+    font-family: 'MarioFont';
+    color:  white;
+    margin-left: 40%;
+    }
+    #m{
+         font-family: 'MarioFont';
+         color:  white;
+       
+         }
+
+         a {
+            font-family: 'MarioFont';
+    color:  white;
+         }

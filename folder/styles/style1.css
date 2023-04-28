@@ -1,0 +1,24 @@
+body{
+    background-image: url('st.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+ }
+
+ #mainn{
+   margin-top: 270px;
+    font-family: 'MarioFont';
+    color:  white;
+    margin-left: 40%;
+    }
+    #m{
+         font-family: 'MarioFont';
+         color:  white;
+       
+         }
+
+         @font-face {
+            font-family: 'MarioFont';
+            src: url('super-mario-ds-font/SuperMarioDsRegular-Ea4R8.ttf');
+          }
+        
